@@ -1,100 +1,145 @@
-# Hi, I'm Akhil Kumar Belkoni 👋
+# Hi there, I'm Akhil Kumar Belkoni 👋
 
-🚀 Full-Stack Web Developer | Backend Enthusiast | Problem Solver
+<h3 align="center">🚀 Full-Stack Developer | Backend Enthusiast | Java Programmer | Problem Solver</h3>
 
-I'm a Computer Science undergraduate passionate about building scalable web applications and solving challenging algorithmic problems. I enjoy developing clean, efficient backend systems and continuously improving my problem-solving skills through competitive programming.
-
----
-
-## 💻 What I Do
-
-* Build full-stack web applications using the MERN ecosystem
-* Develop scalable backend services with Node.js and Express.js
-* Design RESTful APIs following MVC architecture
-* Implement authentication, authorization, and session management
-* Work with MongoDB and Mongoose for database design
-* Solve Data Structures & Algorithms problems regularly on LeetCode
+<p align="center">
+I'm a Computer Science undergraduate at <b>Jawaharlal Nehru Technological University Hyderabad (JNTUH)</b> passionate about building scalable web applications, designing efficient backend systems, and solving challenging algorithmic problems. I enjoy transforming ideas into real-world applications while continuously improving my Data Structures & Algorithms and Software Engineering skills.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
 
-**Languages**
+* 🎓 B.Tech in Computer Science & Engineering at **JNTUH**
+* 💻 Passionate about **Full-Stack Web Development**
+* ⚙️ Interested in **Backend Development & System Design**
+* 🌱 Currently exploring **Docker, Scalable Architectures & Cloud Deployment**
+* 🧩 Solved **500+ DSA Problems** on LeetCode
+* 🤝 Always eager to learn new technologies and collaborate on impactful projects
+* 🎯 Aspiring **Software Development Engineer (SDE)**
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
 
 * Java
 * JavaScript
+* C
 * HTML5
 * CSS3
 
-**Backend**
+## Frontend
+
+* React.js
+* HTML5
+* CSS3
+* Tailwind CSS
+* EJS
+
+## Backend
 
 * Node.js
 * Express.js
 * REST APIs
+* Socket.IO
 
-**Database**
+## Databases
 
 * MongoDB
-* Mongoose
+* MySQL
 
-**Frontend**
-
-* EJS
-* HTML
-* CSS
-
-**Tools & Technologies**
+## Tools
 
 * Git
 * GitHub
-* VS Code
+* Docker
 * Postman
+* VS Code
+
+## Core CS Subjects
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Management Systems
+* Operating Systems
+* Computer Networks
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Projects
 
-### Wanderlust – Airbnb Clone
+## 🔹 CodeSync — Real-Time Collaborative Code Editor
 
-A full-stack property rental platform inspired by Airbnb.
+**Tech Stack:** React.js, Node.js, Express.js, Socket.IO, Monaco Editor
 
-**Features**
+### Features
+
+* Real-time collaborative code editing
+* Live synchronization using Socket.IO
+* Secure room creation with unique Room IDs
+* VS Code-like coding experience using Monaco Editor
+* Real-time chat between participants
+* Participant tracking
+* Responsive UI
+* Frontend deployed on Vercel
+* Backend deployed on Render
+
+---
+
+## 🏠 Wanderlust — Airbnb Clone
+
+**Tech Stack:** Node.js, Express.js, MongoDB, EJS, Passport.js
+
+### Features
 
 * User Authentication & Authorization
+* Secure Login & Registration
 * Property Listings Management
-* Image Uploads
+* Image Upload using Cloudinary
 * Reviews & Ratings
-* Session & Flash Messages
-* Responsive User Interface
-* RESTful API Design
+* Complete CRUD Operations
 * MVC Architecture
+* RESTful APIs
+* Responsive User Interface
+* MongoDB Database Integration
 
 ---
 
-## 📊 Problem Solving
+# 📊 Problem Solving
 
-* ✅ Solved **500+ LeetCode problems**
-* Strong foundation in **Data Structures & Algorithms**
-* Regularly practice coding interview questions
-
-**LeetCode:** https://leetcode.com/u/akhilbelkoni/
-
----
-
-## 🌐 Portfolio
-
-**Portfolio:** https://my-portfolio-one-phi-71.vercel.app/
+* ✅ Solved **500+ Problems** on LeetCode
+* 📚 Strong understanding of Data Structures & Algorithms
+* 💡 Regularly practice coding interview questions
+* 🚀 Passionate about writing clean and optimized code
 
 ---
 
-## 🤝 Connect With Me
+# 📜 Certifications
 
-* LinkedIn: https://www.linkedin.com/in/akhilbelkoni/
-* GitHub: https://github.com/belkoniakhil
-* Email: [belkoniakhil9@gmail.com](mailto:belkoniakhil9@gmail.com)
+* IBM Web Development Certification
+* HackerRank SQL Certification
+* CodeChef Competitive Programming
 
 ---
 
-## 🎯 Career Objective
+# 🌐 Connect With Me
 
-I'm actively seeking **Software Development Engineer (SDE)**, **Backend Developer**, and **Full-Stack Developer** internship and full-time opportunities where I can contribute to impactful products while continuing to grow as a software engineer.
+* 🌍 Portfolio: https://my-portfolio-one-phi-71.vercel.app/
+* 💼 LinkedIn: https://linkedin.com/in/akhilbelkoni
+* 💻 GitHub: https://github.com/belkoniakhil
+* 🧩 LeetCode: https://leetcode.com/u/akhilbelkoni/
+* 📧 Email: [belkoniakhil9@gmail.com](mailto:belkoniakhil9@gmail.com)
+
+---
+
+# 🎯 Career Objective
+
+I'm actively seeking **Software Development Engineer (SDE)**, **Backend Developer**, and **Full-Stack Developer** internship and full-time opportunities where I can contribute to impactful products, write scalable software, and grow as a software engineer.
+
+I enjoy solving real-world problems, learning modern technologies, and building applications that deliver meaningful user experiences.
+
+---
+
+### ⭐ "Code. Learn. Build. Repeat."
