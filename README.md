@@ -1,54 +1,100 @@
-# Hi, I'm Akhil 👋
+# Hi, I'm Akhil Kumar Belkoni 👋
 
-Full-stack web developer focused on building scalable backend systems and real-world web applications.
-I also actively solve algorithm and data structure problems to improve my coding and problem-solving skills.
+🚀 Full-Stack Web Developer | Backend Enthusiast | Problem Solver
+
+I'm a Computer Science undergraduate passionate about building scalable web applications and solving challenging algorithmic problems. I enjoy developing clean, efficient backend systems and continuously improving my problem-solving skills through competitive programming.
 
 ---
 
 ## 💻 What I Do
 
-- Build full-stack web applications with Node.js and MongoDB  
-- Design RESTful APIs and follow MVC architecture  
-- Implement authentication and authorization systems  
-- Practice Data Structures & Algorithms consistently
+* Build full-stack web applications using the MERN ecosystem
+* Develop scalable backend services with Node.js and Express.js
+* Design RESTful APIs following MVC architecture
+* Implement authentication, authorization, and session management
+* Work with MongoDB and Mongoose for database design
+* Solve Data Structures & Algorithms problems regularly on LeetCode
 
 ---
 
 ## 🛠 Tech Stack
 
-- JavaScript  
-- Node.js  
-- Express.js  
-- MongoDB  
-- Mongoose  
-- EJS  
-- HTML & CSS  
-- Git & GitHub  
+**Languages**
+
+* Java
+* JavaScript
+* HTML5
+* CSS3
+
+**Backend**
+
+* Node.js
+* Express.js
+* REST APIs
+
+**Database**
+
+* MongoDB
+* Mongoose
+
+**Frontend**
+
+* EJS
+* HTML
+* CSS
+
+**Tools & Technologies**
+
+* Git
+* GitHub
+* VS Code
+* Postman
 
 ---
 
 ## 🚀 Featured Project
 
-**Wanderlust** – Full-stack Airbnb clone  
-A property listing platform with user authentication, image uploads, and review system.
+### Wanderlust – Airbnb Clone
+
+A full-stack property rental platform inspired by Airbnb.
+
+**Features**
+
+* User Authentication & Authorization
+* Property Listings Management
+* Image Uploads
+* Reviews & Ratings
+* Session & Flash Messages
+* Responsive User Interface
+* RESTful API Design
+* MVC Architecture
 
 ---
 
 ## 📊 Problem Solving
 
-**LeetCode:** https://leetcode.com/u/akhilbelkoni/  
-Consistently solving algorithm and data structure problems.
+* ✅ Solved **500+ LeetCode problems**
+* Strong foundation in **Data Structures & Algorithms**
+* Regularly practice coding interview questions
+
+**LeetCode:** https://leetcode.com/u/akhilbelkoni/
+
+---
+
+## 🌐 Portfolio
+
+**Portfolio:** https://my-portfolio-one-phi-71.vercel.app/
 
 ---
 
 ## 🤝 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/akhilbelkoni/
+* LinkedIn: https://www.linkedin.com/in/akhilbelkoni/
+* GitHub: https://github.com/belkoniakhil
+* Email: [belkoniakhil9@gmail.com](mailto:belkoniakhil9@gmail.com)
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Career Objective
 
-Actively seeking opportunities in:  
-**Full-stack Development**  
-**Backend Engineering**
+I'm actively seeking **Software Development Engineer (SDE)**, **Backend Developer**, and **Full-Stack Developer** internship and full-time opportunities where I can contribute to impactful products while continuing to grow as a software engineer.
